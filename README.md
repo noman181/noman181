@@ -2,7 +2,7 @@
 ✨ About Me
 
 Hi, I’m **Noman** 👋
-Computer Science Student from **Bangladesh** 🇧🇩
+Computer Science Student from **Bangladesh** 
 
 * 🟡 Learning Web Development
 * 🟢 Interested in Programming & Technology
